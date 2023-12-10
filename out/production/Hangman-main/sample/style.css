@@ -1,0 +1,7 @@
+.button-video-chat {
+    -fx-graphic: url('Source/phone-call.png');
+}
+
+.button-video-call {
+    -fx-graphic: url('Source/video-camera.png');
+}
